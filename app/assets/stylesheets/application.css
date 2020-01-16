@@ -1,0 +1,43 @@
+@import "materialize";
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+
+h1 {
+    font-size: 3em;
+  }
+
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .btn-devise {
+  	width: 100%;
+  }  	
+
+.show-img {
+    padding-right: 5%;
+  }   
+
+.show-titolo {
+    margin-top: 0;
+    font-size: 3.4em;
+  }   
+
+.show-prezzo {
+    font-size: 2em;
+  }   
+
+.btn-form  {
+    width: 100%;
+  }   
+
+
+.card-image {
+    heigth: 150px;
+  }   
